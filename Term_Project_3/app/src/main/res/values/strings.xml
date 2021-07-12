@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Term Project TFT</string>
+    <string name="title_home">Home</string>
+    <string name="title_basicitem">기본아이템</string>
+    <string name="title_combiitem">조합아이템</string>
+    <string name="title_playercharacter">플레이어캐릭터</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
